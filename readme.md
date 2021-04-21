@@ -122,6 +122,5 @@ bool类型，标记字符串为动态/静态。
 3. 不建议你访问设置为private的内容，因为之所以这么做是有原因的
 4. dstring类型在namespace std中，所以不能直接访问。记得加上using namespace std;
 ***********************************
-<center>Thanks for Reading</center>
-===================================
+# <center>Thanks for Reading</center>  
 ***********************************
