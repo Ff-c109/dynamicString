@@ -1,24 +1,5 @@
 C++ 动态字符串
 =============
-*****************
-#目录
-* [dynamicString.hpp](#2.1)
- * [基本信息](#2.1.1)
- * [内容](#2.1.2)
-  * [dstring](#2.1.2.1)
-  * [dstring 中的成员](#2.1.2.2)
-  	* [content](#2.1.2.2.1)
-  	* [length](#2.1.2.2.2)
-  	* [free](#2.1.2.2.3)
-  	* [dynamic](#2.1.2.2.4)
-  	* [function: add](#2.1.2.2.5)
-  	* [function: speace](#2.1.2.2.6)
-  	* [function: write](#2.1.2.2.7)
-  	* [function: remove](#2.1.2.2.8)
-  	* [function: subString](#2.1.2.9)
-  	* [function: stringLocation](#2.1.2.2.10)
-  	* [function: getLength](#2.1.2.2.11)
-  	* [function: freeSpeace](#2.1.2.2.12)      
 dynamicString.hpp
 -------------------
 
